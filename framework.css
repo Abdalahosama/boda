@@ -1,0 +1,32 @@
+.d-flex {
+    display: flex;
+}
+.d-flex-between {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.gap-20 {
+    gap: 20px;
+}
+.m-20 {
+    margin: 20px;
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.p-20 {
+    padding: 20px;
+}
+
+.p-relative {
+    position: relative;
+}
+
+.txt-c {
+    text-align: center;
+}
+
